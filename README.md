@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 야구만큼 개발도 좋아하는 개발자 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-        4년간 Java 기반 웹 서비스를 개발해왔으며, Java에 대한 자신감과 책임감을 가지고 있습니다.
+        4년간 Java 기반 웹 서비스를 개발해왔으며, Java에 대한 자신감과 책임감을 가지고 있습니다.</br>
         </li>야구를 사랑하는 개발자로서, 야구처럼 팀워크와 꾸준함을 중요하게 생각합니다. 
     </div> 
 </div>
