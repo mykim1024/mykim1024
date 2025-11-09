@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFD43B,FF6B00&height=120&section=header&text=%F0%9F%90%AF%20Backend%20Developer%20%7C%20Passion%20like%20the%20KIA%20Tigers&fontSize=25&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=blur&color=FFD43B,FF6B00&height=120&section=header&text=%F0%9F%90%AF%20Backend%20Developer%20%7C%20Passion%20like%20the%20KIA%20Tigers&fontSize=25&fontAlignY=40)
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 야구만큼 개발도 좋아하는 개발자 </h2>  
