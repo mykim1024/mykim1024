@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=fecb3e&height=120&text=🐯%20Backend%20Developer%20|%20with%20KIA%20Tigers&animation=fadeIn&fontColor=000000&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?height=120&text=🐯%20Backend%20Developer%20|%20with%20KIA%20Tigers&animation=fadeIn&fontColor=000000&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 야구만큼 개발도 좋아하는 개발자 </h2>  
